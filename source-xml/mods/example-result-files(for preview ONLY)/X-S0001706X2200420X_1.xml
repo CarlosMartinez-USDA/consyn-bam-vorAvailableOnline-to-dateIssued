@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Vital statistics of the introduced species Triatoma infestans (Klug, 1834) (Hemiptera: Reduviidae) in western Mexico under laboratory conditions</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">José Alejandro</namePart>
+      <namePart type="family">Martínez-Ibarra</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-6600-654X</nameIdentifier>
+      <displayForm>Martínez-Ibarra, José Alejandro</displayForm>
+      <affiliation>Laboratorio de Entomología Médica, Centro Universitario del Sur, Universidad de Guadalajara, 49000, Ciudad Guzmán, Jalisco, México</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Fernando</namePart>
+      <namePart type="family">Martínez-Hernández</namePart>
+      <displayForm>Martínez-Hernández, Fernando</displayForm>
+      <affiliation>Departamento de Ecología de Agentes Patógenos, Hospital General Dr. Manuel Gea González, 14080, Mexico City, Mexico</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Yunuen</namePart>
+      <namePart type="family">Grant-Guillén</namePart>
+      <displayForm>Grant-Guillén, Yunuen</displayForm>
+      <affiliation>Laboratorio de Entomología Médica, Centro Universitario del Sur, Universidad de Guadalajara, 49000, Ciudad Guzmán, Jalisco, México</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Guiehdani</namePart>
+      <namePart type="family">Villalobos</namePart>
+      <displayForm>Villalobos, Guiehdani</displayForm>
+      <affiliation>Departamento de Ecología de Agentes Patógenos, Hospital General Dr. Manuel Gea González, 14080, Mexico City, Mexico</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Benjamín</namePart>
+      <namePart type="family">Nogueda-Torres</namePart>
+      <displayForm>Nogueda-Torres, Benjamín</displayForm>
+      <affiliation>Comisión de Operación y Fomento de Actividades Académicas, Escuela Nacional de Ciencias Biológicas, Instituto Politécnico Nacional, Ciudad de México, México</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo><!--bam:vorAvailableOnline-->
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-10-26</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Triatoma infestans, one of the most important vectors of Trypanosoma cruzi to humans, has recently been discovered introduced in Mexico. Some of the most important biological parameters to estimate the vectorial capacity of a triatomine, such as the hatching of eggs, life cycle, feeding and defecation behaviors for each instar of a population of T. infestans introduced into Mexico are reported. The egg-to-adult development times of the three studied cohorts had a mean of 215.7 days. The mean total number of blood meals required to molt from first-instar nymphs to adults was 11.7. The cumulative mortality was 30.8%. The highest mortality rate was recorded for third-instar nymphs (10.3%), whereas the lowest rate (0.8%) was recorded for first-instar nymphs. All studied specimens began feeding as soon as a blood meal source was offered, showing “aggressive” behavior. Feeding times were ˃ 10 min for all instars, increasing according to instar, in a similar pattern to the development times and the required blood meals before molting. Most (57.7 -82.5%) of the studied specimens of the first- to third-instar nymphs and adults of T. infestans defecated when feeding (WF). The average number of eggs laid per female per day was 0.9, with an eclosion rate of 96.4%. The results of most of the studied parameters confirm the importance of T. infestans wherever it is found because of its potential high capacity for transmitting T. cruzi to hosts. Active entomological surveillance should be carried out in the area of the first discovery of the introduced T. infestans and its surroundings to avoid the dissemination of this effective vector species in Mexico. </abstract>
+   <subject>
+      <topic>Introduced species</topic>
+   </subject>
+   <subject>
+      <topic>Triatoma infestans</topic>
+   </subject>
+   <subject>
+      <topic>biology</topic>
+   </subject>
+   <subject>
+      <topic>Chagas disease</topic>
+   </subject>
+   <subject>
+      <topic>Mexico</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Acta Tropica</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">0001-706X</identifier>
+      <part>
+         <detail type="volume">
+            <number>237</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="article">
+            <number>106728</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="display-date">January 2023</text>
+         <text type="year">2023</text>
+         <text type="month">January</text>
+         <extent unit="pages">
+            <start>106728</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.actatropica.2022.106728</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.actatropica.2022.106728</url>
+   </location>
+   <identifier type="pii">S0001-706X(22)00420-X</identifier>
+   <extension>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/consyn-bam-vorAvailableOnline/source-xml/S0001706X2200420X.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\Desktop\consyn-bam-vorAvailableOnline\source-xml\mods\</workingDirectory>
+   </extension>
+</mods>

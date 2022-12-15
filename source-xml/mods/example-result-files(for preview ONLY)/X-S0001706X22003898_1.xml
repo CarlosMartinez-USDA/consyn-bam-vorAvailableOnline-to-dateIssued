@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>First molecular detection of Mycoplasma ovis in horses from Brazil</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Monica T.A.</namePart>
+      <namePart type="family">Kakimori</namePart>
+      <displayForm>Kakimori, Monica T.A.</displayForm>
+      <affiliation>Vector-Borne Diseases Laboratory, Department of Veterinary Medicine, Universidade Federal do Paraná, Rua dos Funcionários, Campus Agrárias, 1540, Juvevê, Curitiba, PR 80035-050, Brazil</affiliation>
+      <affiliation>Department of Preventive Veterinary Medicine, Universidade Estadual de Londrina, Londrina, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Luiz D.</namePart>
+      <namePart type="family">Barros</namePart>
+      <displayForm>Barros, Luiz D.</displayForm>
+      <affiliation>Department of Preventive Veterinary Medicine, Universidade Estadual de Londrina, Londrina, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Flávia C.M.</namePart>
+      <namePart type="family">Collere</namePart>
+      <displayForm>Collere, Flávia C.M.</displayForm>
+      <affiliation>Vector-Borne Diseases Laboratory, Department of Veterinary Medicine, Universidade Federal do Paraná, Rua dos Funcionários, Campus Agrárias, 1540, Juvevê, Curitiba, PR 80035-050, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Larissa D.R.</namePart>
+      <namePart type="family">Ferrari</namePart>
+      <displayForm>Ferrari, Larissa D.R.</displayForm>
+      <affiliation>Vector-Borne Diseases Laboratory, Department of Veterinary Medicine, Universidade Federal do Paraná, Rua dos Funcionários, Campus Agrárias, 1540, Juvevê, Curitiba, PR 80035-050, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Aldair</namePart>
+      <namePart type="family">de Matos</namePart>
+      <displayForm>de Matos, Aldair</displayForm>
+      <affiliation>Department of Preventive Veterinary Medicine, Universidade Estadual de Londrina, Londrina, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Juliana I.</namePart>
+      <namePart type="family">Lucas</namePart>
+      <displayForm>Lucas, Juliana I.</displayForm>
+      <affiliation>Laboratory of Immunoparasitology, Department of Immunology, Microbiology and Parasitology, Universidade Federal de Uberlândia, Uberlândia, Minas Gerais, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Vanessa S.</namePart>
+      <namePart type="family">Coradi</namePart>
+      <displayForm>Coradi, Vanessa S.</displayForm>
+      <affiliation>Vector-Borne Diseases Laboratory, Department of Veterinary Medicine, Universidade Federal do Paraná, Rua dos Funcionários, Campus Agrárias, 1540, Juvevê, Curitiba, PR 80035-050, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Anna C.B.</namePart>
+      <namePart type="family">Mongruel</namePart>
+      <displayForm>Mongruel, Anna C.B.</displayForm>
+      <affiliation>Laboratório de Imunoparasitologia, Departamento de Patologia, Teriogenologia e Saúde Única, Faculdade de Ciências Agrárias e Veterinárias, Universidade Estadual Paulista (FCAV/UNESP), Jaboticabal, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Daniel M.</namePart>
+      <namePart type="family">Aguiar</namePart>
+      <displayForm>Aguiar, Daniel M.</displayForm>
+      <affiliation>Laboratório de Virologia e Rickettsioses, Universidade Federal do Mato Grosso, Cuiabá, Mato Grosso, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Rosangela Z.</namePart>
+      <namePart type="family">Machado</namePart>
+      <displayForm>Machado, Rosangela Z.</displayForm>
+      <affiliation>Laboratório de Imunoparasitologia, Departamento de Patologia, Teriogenologia e Saúde Única, Faculdade de Ciências Agrárias e Veterinárias, Universidade Estadual Paulista (FCAV/UNESP), Jaboticabal, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Marcos R.</namePart>
+      <namePart type="family">André</namePart>
+      <displayForm>André, Marcos R.</displayForm>
+      <affiliation>Laboratório de Imunoparasitologia, Departamento de Patologia, Teriogenologia e Saúde Única, Faculdade de Ciências Agrárias e Veterinárias, Universidade Estadual Paulista (FCAV/UNESP), Jaboticabal, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Thállitha S.W.J.</namePart>
+      <namePart type="family">Vieira</namePart>
+      <displayForm>Vieira, Thállitha S.W.J.</displayForm>
+      <affiliation>Vector-Borne Diseases Laboratory, Department of Veterinary Medicine, Universidade Federal do Paraná, Rua dos Funcionários, Campus Agrárias, 1540, Juvevê, Curitiba, PR 80035-050, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Rafael F.C.</namePart>
+      <namePart type="family">Vieira</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-6613-0287</nameIdentifier>
+      <displayForm>Vieira, Rafael F.C.</displayForm>
+      <affiliation>Vector-Borne Diseases Laboratory, Department of Veterinary Medicine, Universidade Federal do Paraná, Rua dos Funcionários, Campus Agrárias, 1540, Juvevê, Curitiba, PR 80035-050, Brazil</affiliation>
+      <affiliation>Global One Health initiative (GOHi), The Ohio State University, Columbus, OH, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo><!--bam:vorAvailableOnline-->
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-10-10</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This study aimed to determine the occurrence of hemoplasmas and tick-borne pathogens (TBP) (Theileria equi, Babesia caballi, and Ehrlichia sp.) in horses and ticks’ salivary glands, and determine the factors associated with exposure/infection in a rural settlement in southern Brazil. Blood samples from 22 horses were screened for anti-T. equi and anti-Ehrlichia sp. antibodies by an indirect fluorescent antibody test (IFAT) assays. Samples were also tested by PCR assays for T. equi and B. caballi (18S rRNA and rap-1 genes, respectively), hemoplasmas (16S rRNA gene), and Ehrlichia sp. (dsb gene). Ticks were removed from the animals (inspection) and the environment (flannel trawling and dry ice traps), and morphologically identified. Additionally, salivary glands DNA was extracted from 28 adult ticks infesting the animals and four nymphs from the environment, and further screened for Ehrlichia sp. and hemotropic Mycoplasma sp. Anti-T. equi and anti-Ehrlichia sp. antibodies were detected in 40.91% (nine/22; 95% CI: 23.26-61.27) and 31.81% (seven/22; 95% CI: 16.36-52.68) horses, respectively. Theileria equi, B. caballi, and hemotropic Mycoplasma sp. DNA was detected in 59.09% (13/22), 4.55% (one/22), and 50% (11/22) horses, respectively. All horses tested negative in the PCR for Ehrlichia sp. All sequences showed ≥99% identity with multiple T. equi, B. caballi, and Mycoplasma ovis sequences deposited in GenBank database. Adult ticks were identified as Dermacentor nitens (44/47; 93.62%) and Rhipicephalus microplus (three/47; 6.38%). Ticks’ salivary glands were negative for Ehrlichia sp., while 39.29% from adults (11/28) and 50% from nymphs (two/four) from the environment were positive for hemotropic Mycoplasma sp. This is the first report of M. ovis infection in horses from Brazil and the first detection of hemoplasma DNA in salivary glands of D. nitens and R. microplus ticks. Further studies are needed to elucidate the vector competence of ticks to transmit hemoplasmas. </abstract>
+   <subject>
+      <topic>Babesia caballi</topic>
+   </subject>
+   <subject>
+      <topic>Hemotropic mycoplasma</topic>
+   </subject>
+   <subject>
+      <topic>Theileria equi</topic>
+   </subject>
+   <subject>
+      <topic>Dermacentor nitens</topic>
+   </subject>
+   <subject>
+      <topic>Ehrlichia sp</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Acta Tropica</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">0001-706X</identifier>
+      <part>
+         <detail type="volume">
+            <number>237</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="article">
+            <number>106697</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="display-date">January 2023</text>
+         <text type="year">2023</text>
+         <text type="month">January</text>
+         <extent unit="pages">
+            <start>106697</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.actatropica.2022.106697</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.actatropica.2022.106697</url>
+   </location>
+   <identifier type="pii">S0001-706X(22)00389-8</identifier>
+   <extension>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/consyn-bam-vorAvailableOnline/source-xml/S0001706X22003898.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\Desktop\consyn-bam-vorAvailableOnline\source-xml\mods\</workingDirectory>
+   </extension>
+</mods>

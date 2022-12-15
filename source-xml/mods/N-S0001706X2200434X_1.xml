@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Multi-locus Sequencing Typing of Bartonella henselae isolates reveals coinfection with different variants in domestic cats from Midwestern Brazil</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Clara Morato</namePart>
+      <namePart type="family">Dias</namePart>
+      <displayForm>Dias, Clara Morato</displayForm>
+      <affiliation>Departamento de Patologia, Reprodução e Saúde Única, Laboratório de Imunoparasitologia, Faculdade de Ciências Agrárias e Veterinárias, Universidade Estadual “Júlio de Mesquita Filho” (FCAV/UNESP), Via de Acesso Prof. Paulo Donato Castellane, s/n, Zona Rural, CEP:, Jaboticabal, São Paulo 14884-900, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Renan Bressianini</namePart>
+      <namePart type="family">do Amaral</namePart>
+      <displayForm>do Amaral, Renan Bressianini</displayForm>
+      <affiliation>Departamento de Patologia, Reprodução e Saúde Única, Laboratório de Imunoparasitologia, Faculdade de Ciências Agrárias e Veterinárias, Universidade Estadual “Júlio de Mesquita Filho” (FCAV/UNESP), Via de Acesso Prof. Paulo Donato Castellane, s/n, Zona Rural, CEP:, Jaboticabal, São Paulo 14884-900, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Lívia</namePart>
+      <namePart type="family">Perles</namePart>
+      <displayForm>Perles, Lívia</displayForm>
+      <affiliation>Departamento de Patologia, Reprodução e Saúde Única, Laboratório de Imunoparasitologia, Faculdade de Ciências Agrárias e Veterinárias, Universidade Estadual “Júlio de Mesquita Filho” (FCAV/UNESP), Via de Acesso Prof. Paulo Donato Castellane, s/n, Zona Rural, CEP:, Jaboticabal, São Paulo 14884-900, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Antônia Laila dos Santos</namePart>
+      <namePart type="family">Muniz</namePart>
+      <displayForm>Muniz, Antônia Laila dos Santos</displayForm>
+      <affiliation>Escola de Veterinária e Zootecnia, Universidade Federal de Goiás (UFG), Goiânia, Goiás, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Tarik Fernandes Gonçalves</namePart>
+      <namePart type="family">Rocha</namePart>
+      <displayForm>Rocha, Tarik Fernandes Gonçalves</displayForm>
+      <affiliation>Escola de Veterinária e Zootecnia, Universidade Federal de Goiás (UFG), Goiânia, Goiás, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Rosangela Zacarias</namePart>
+      <namePart type="family">Machado</namePart>
+      <displayForm>Machado, Rosangela Zacarias</displayForm>
+      <affiliation>Departamento de Patologia, Reprodução e Saúde Única, Laboratório de Imunoparasitologia, Faculdade de Ciências Agrárias e Veterinárias, Universidade Estadual “Júlio de Mesquita Filho” (FCAV/UNESP), Via de Acesso Prof. Paulo Donato Castellane, s/n, Zona Rural, CEP:, Jaboticabal, São Paulo 14884-900, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Marcos Rogério</namePart>
+      <namePart type="family">André</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-1713-5222</nameIdentifier>
+      <displayForm>André, Marcos Rogério</displayForm>
+      <affiliation>Departamento de Patologia, Reprodução e Saúde Única, Laboratório de Imunoparasitologia, Faculdade de Ciências Agrárias e Veterinárias, Universidade Estadual “Júlio de Mesquita Filho” (FCAV/UNESP), Via de Acesso Prof. Paulo Donato Castellane, s/n, Zona Rural, CEP:, Jaboticabal, São Paulo 14884-900, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo><!--bam:vorAvailableOnline-->
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-11-05</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Bartonella henselae is a zoonotic pathogen responsible for causing Cat Scratch Disease (CSD) and other clinical manifestations in humans. Domestic cats are the main reservoirs of this Bartonella species. Previous studies have suggested that certain genotypes of B. henselae seem to be more associated with human infections. The present study aimed to genotype B. henselae isolates from domestic cats’ blood samples in the state of Goiás, midwestern Brazil. The association of quantitative real-time PCR (qPCR) based on the nuoG gene from Bartonella spp. of blood samples, before and after incubation in pre-enrichment liquid medium (BAPGM) and isolation on chocolate agar, showed a positivity frequency of 42% (42/100) for Bartonella spp. Twelve B. henselae isolates obtained on agar chocolate from six cats’ blood samples (two isolates from each animal) were characterized by Multi-locus Sequencing Typing (MLST) and revealed to belong to Sequence Types ST1 and ST5. One of the cats (1/6) presented both STs, demonstrating that domestic cats can be coinfected with different variants of B. henselae. The STs detected in this study are distributed worldwide and have already been detected in humans with clinical manifestations of bartonellosis. This is the first report of the zoonotic variants ST1 and ST5 of B. henselae in domestic cats from Brazil. </abstract>
+   <subject>
+      <topic>Bartonellosis</topic>
+   </subject>
+   <subject>
+      <topic>CAT Scratch Disease</topic>
+   </subject>
+   <subject>
+      <topic>MLST</topic>
+   </subject>
+   <subject>
+      <topic>Sequence Type</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Acta Tropica</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">0001-706X</identifier>
+      <part>
+         <detail type="volume">
+            <number>237</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="article">
+            <number>106742</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="display-date">January 2023</text>
+         <text type="year">2023</text>
+         <text type="month">January</text>
+         <extent unit="pages">
+            <start>106742</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.actatropica.2022.106742</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.actatropica.2022.106742</url>
+   </location>
+   <identifier type="pii">S0001-706X(22)00434-X</identifier>
+   <extension>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/consyn-bam-vorAvailableOnline/source-xml/S0001706X2200434X.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\Desktop\consyn-bam-vorAvailableOnline\source-xml\mods\</workingDirectory>
+   </extension>
+</mods>

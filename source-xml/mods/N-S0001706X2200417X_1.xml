@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>In support of morphology: Molecular analysis successfully delineates the Afrotropical genus Atylotus (Diptera: Tabanidae) into species</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Kirstin A.</namePart>
+      <namePart type="family">Williams</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0001-5542-6808</nameIdentifier>
+      <displayForm>Williams, Kirstin A.</displayForm>
+      <affiliation>Natural Science Department, KwaZulu-Natal Museum, Private Bag 9070, Pietermaritzburg 3200, South Africa</affiliation>
+      <affiliation>Department of Zoology and Entomology, Rhodes University, Makhanda, South Africa</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Louwrens P.</namePart>
+      <namePart type="family">Snyman</namePart>
+      <displayForm>Snyman, Louwrens P.</displayForm>
+      <affiliation>Department of Veterinary Microbiology, University of Saskatchewan, Canada</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo><!--bam:vorAvailableOnline-->
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-10-29</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Previous studies of the horse fly genus Atylotus in the Afrotropics has shown little to no differentiation into species based on the barcoding region of cytochrome oxidase I (COI), largely due to morphological misidentifications. Using field caught specimens and a museum reference collection together with type comparisons, COI and 16S ribosomal RNA sequences were generated from two specimens of Atylotus agrestis, two A. albipalpus, four A fuscipes and one A. nigromaculatus. Phylogenetic analysis of these sequences produced four separate species clades with strong support. The results showed that COI does delineate the species of Afrotropical Atylotus and that misidentifications of specimens is a common problem. Additionally, Atylotus fuscipes is revived from synonymy and given full species status. Finally, a comprehensive review of the COI barcodes, publicly available on GenBank and BOLD is included that highlights some problems with using sequences from public databases. </abstract>
+   <subject>
+      <topic>16S</topic>
+   </subject>
+   <subject>
+      <topic>Barcode</topic>
+   </subject>
+   <subject>
+      <topic>BIN</topic>
+   </subject>
+   <subject>
+      <topic>COI</topic>
+   </subject>
+   <subject>
+      <topic>Disease vector</topic>
+   </subject>
+   <subject>
+      <topic>Horse fly</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Acta Tropica</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">0001-706X</identifier>
+      <part>
+         <detail type="volume">
+            <number>237</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="article">
+            <number>106725</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="display-date">January 2023</text>
+         <text type="year">2023</text>
+         <text type="month">January</text>
+         <extent unit="pages">
+            <start>106725</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.actatropica.2022.106725</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.actatropica.2022.106725</url>
+   </location>
+   <identifier type="pii">S0001-706X(22)00417-X</identifier>
+   <extension>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/consyn-bam-vorAvailableOnline/source-xml/S0001706X2200417X.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\Desktop\consyn-bam-vorAvailableOnline\source-xml\mods\</workingDirectory>
+   </extension>
+</mods>
