@@ -25,7 +25,7 @@
 
     <!-- outputs -->
     <xsl:output method="xml" indent="yes" encoding="UTF-8" name="archive-original"/>
-   
+    <xsl:output method="xml" indent="yes" encoding="UTF-8" name="mods"/>
     <xsl:output method="xml" indent="yes" encoding="UTF-8" saxon:next-in-chain="fix_characters.xsl"/>
 
 
@@ -80,7 +80,46 @@
             format="archive-original">
             <xsl:copy-of select="."/>
         </xsl:result-document>
-        
+         <xsl:result-document method="xml" encoding="UTF-8" indent="yes" 
+           href="file:///{$workingDir}N-{replace($originalFilename, '(.*/)(.*)(\.xml)', '$2')}_{position()}.xml"
+           format="mods">
+        <mods version="3.7">
+            <xsl:namespace name="xsi">http://www.w3.org/2001/XMLSchema-instance</xsl:namespace>
+            <xsl:attribute name="xsi:schemaLocation"
+                select="'http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd'"/>
+            <xsl:apply-templates select="//doc:document/rdf:RDF[1]/rdf:Description[1]/dct:title[1]"/>
+
+            <!-- Account for variety of author formats -->
+            <xsl:apply-templates
+                select="/doc:document/(ja:article | ja:simple-article)/(ja:head | ja:simple-head)/ce:author-group/ce:collaboration/ce:text"/>
+            <xsl:apply-templates
+                select="/doc:document/(ja:article | ja:simple-article)/(ja:head | ja:simple-head)/ce:author-group/(. | ce:collaboration/ce:author-group)"/>
+            <xsl:apply-templates
+                select="/doc:document/cja:converted-article/cja:head/ce:author-group"/>
+            <!--default values: resource and genre -->
+            <typeOfResource>text</typeOfResource>
+            <genre>article</genre>
+            <xsl:call-template name="modsOriginDate"/>
+            <!-- default language -->
+            <language>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                <languageTerm type="text">English</languageTerm>
+            </language>
+            <!-- abstract -->
+            <xsl:apply-templates
+                select="/doc:document/(ja:article | ja:simple-article)/(ja:head | ja:simple-head)/ce:abstract[@class = 'author']"/>
+            <xsl:apply-templates
+                select="/doc:document/cja:converted-article/cja:head/ce:abstract[@class = 'author']"/>
+            <!-- Note -->
+            <xsl:call-template name="admin-note"/>
+            <!-- keywords, description, and item information -->
+            <xsl:apply-templates select="/doc:document/ja:article/ja:head/ce:keywords"/>
+            <xsl:apply-templates select="/doc:document/rdf:RDF/rdf:Description"/>
+            <xsl:apply-templates select="/doc:document/ja:article/ja:item-info"/>
+            <!-- parameter and record info-->
+            <xsl:call-template name="extension"/>
+        </mods>
+        </xsl:result-document>
           <mods version="3.7">
             <xsl:namespace name="xsi">http://www.w3.org/2001/XMLSchema-instance</xsl:namespace>
             <xsl:attribute name="xsi:schemaLocation" select="'http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd'"/> 

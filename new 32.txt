@@ -1,0 +1,1 @@
+workingDir="C:\Users\Carlos.Martinez\OneDrive - USDA\XML_projects\OpenAccess\consyn-bam-vorAvailableOnline-to-dateIssued\source-xml\mods\"

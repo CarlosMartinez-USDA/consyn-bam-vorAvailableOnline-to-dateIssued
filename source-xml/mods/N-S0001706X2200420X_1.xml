@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
       version="3.7"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
    <titleInfo>
@@ -54,7 +55,7 @@
    </name>
    <typeOfResource>text</typeOfResource>
    <genre>article</genre>
-   <originInfo><!--bam:vorAvailableOnline-->
+   <originInfo>
       <dateIssued encoding="w3cdtf" keyDate="yes">2022-10-26</dateIssued>
    </originInfo>
    <language>
@@ -90,7 +91,7 @@
             <number>237</number>
             <caption>v.</caption>
          </detail>
-         <detail type="article">
+         <detail type="issue">
             <number>106728</number>
             <caption>no.</caption>
          </detail>
@@ -104,11 +105,11 @@
    </relatedItem>
    <identifier type="doi">10.1016/j.actatropica.2022.106728</identifier>
    <location>
-      <url>http://dx.doi.org/10.1016/j.actatropica.2022.106728</url>
+      <url displayLabel="Available from publisher's site">http://dx.doi.org/10.1016/j.actatropica.2022.106728</url>
    </location>
    <identifier type="pii">S0001-706X(22)00420-X</identifier>
    <extension>
-      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/consyn-bam-vorAvailableOnline/source-xml/S0001706X2200420X.xml</originalFile>
-      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive - USDA\Desktop\consyn-bam-vorAvailableOnline\source-xml\mods\</workingDirectory>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/consyn-bam-vorAvailableOnline-to-dateIssued/source-xml/S0001706X2200420X.xml</originalFile>
+      <workingDirectory>C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/XML_projects/OpenAccess/consyn-bam-vorAvailableOnline-to-dateIssued/source-xml/mods/</workingDirectory>
    </extension>
 </mods>

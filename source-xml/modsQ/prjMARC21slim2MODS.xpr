@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <meta>
+        <filters directoryPatterns="" filePatterns="\QprjMARC21slim2MODS.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options>
+            <serialized xml:space="preserve">
+                <serializableOrderedMap>
+                    <entry>
+                        <String>Terminology_Checker_Options_Page_Extension_Key</String>
+                        <Boolean>false</Boolean>
+                    </entry>
+                    <entry>
+                        <String>diff.info.v12</String>
+                        <diffInfo>
+                            <field name="algorithm">
+                                <Integer>0</Integer>
+                            </field>
+                            <field name="algorithm3Way">
+                                <Integer>0</Integer>
+                            </field>
+                            <field name="ignorePI">
+                                <Boolean>false</Boolean>
+                            </field>
+                            <field name="ignoreComments">
+                                <Boolean>true</Boolean>
+                            </field>
+                            <field name="ignoreCDATA">
+                                <Boolean>true</Boolean>
+                            </field>
+                            <field name="ignoreWhitespaces">
+                                <Boolean>true</Boolean>
+                            </field>
+                            <field name="ignoreDOCTYPE">
+                                <Boolean>true</Boolean>
+                            </field>
+                            <field name="ignoreText">
+                                <Boolean>false</Boolean>
+                            </field>
+                            <field name="ignoreAttributesOrder">
+                                <Boolean>false</Boolean>
+                            </field>
+                            <field name="ignorePrefixes">
+                                <Boolean>false</Boolean>
+                            </field>
+                            <field name="ignoreNamespaces">
+                                <Boolean>false</Boolean>
+                            </field>
+                            <field name="ignoreNamespaceDeclarations">
+                                <Boolean>false</Boolean>
+                            </field>
+                            <field name="mergeAdjacentDifferences">
+                                <Boolean>true</Boolean>
+                            </field>
+                            <field name="markEndTagsAsDifferent">
+                                <Boolean>true</Boolean>
+                            </field>
+                            <field name="maxNoOfDiffs">
+                                <Integer>50000</Integer>
+                            </field>
+                            <field name="maxNoOfDiffs3Way">
+                                <Integer>50000</Integer>
+                            </field>
+                            <field name="ignoreEntities">
+                                <Boolean>true</Boolean>
+                            </field>
+                            <field name="ignoreStateOfEmptyElements">
+                                <Boolean>false</Boolean>
+                            </field>
+                            <field name="ignoreNodesByXPath">
+                                <Boolean>false</Boolean>
+                            </field>
+                            <field name="defaultXPath">
+                                <null/>
+                            </field>
+                        </diffInfo>
+                    </entry>
+                    <entry>
+                        <String>diff.show.pseudo.conflicts</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
+                        <String>key.diff.option.pane</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
+                        <String>key.editor.open.option.pane</String>
+                        <Boolean>false</Boolean>
+                    </entry>
+                    <entry>
+                        <String>key.editor.save.option.pane</String>
+                        <Boolean>false</Boolean>
+                    </entry>
+                </serializableOrderedMap>
+            </serialized>
+        </options>
+    </meta>
+    <projectTree name="prjMARC21slim2MODS.xpr">
+        <folder path="../../../../../Desktop/NAL-RDA-MARC21slim2-mods/"/>
+        <file name="../../../../../Desktop/NAL-RDA-MARC21slim2-mods/xml/072-test/072-test1.xml"/>
+        <file name="../../../../../Desktop/NAL-RDA-MARC21slim2-mods/xml/072-test/072-test2.xml"/>
+        <file name="../../../../../Desktop/NAL-RDA-MARC21slim2-mods/xml/bib_records/1.xml"/>
+        <file name="../../../../../Desktop/NAL-RDA-MARC21slim2-mods/xml/biblio-20221220/marc-prefixed-bibs-20221220/1.xml"/>
+        <file name="../../../../../Desktop/NAL-RDA-MARC21slim2-mods/xml/bib_records/2.xml"/>
+        <file name="../../../../../Desktop/NAL-RDA-MARC21slim2-mods/xml/bib_records/3.xml"/>
+        <file name="../../../../../Desktop/NAL-RDA-MARC21slim2-mods/xml/bib_records/4.xml"/>
+        <file name="../../../../../Desktop/NAL-RDA-MARC21slim2-mods/xml/bib_records/5.xml"/>
+        <file name="../../../../../Desktop/NAL-RDA-MARC21slim2-mods/xml/bib_records/6.xml"/>
+        <file name="../../../../../Desktop/NAL-RDA-MARC21slim2-mods/xml/cat_bibs/9915473218607426.xml"/>
+        <file name="../../../../../Desktop/NAL-RDA-MARC21slim2-mods/xml/bib_records/9916288966107426.xml"/>
+        <file name="../../../../../Desktop/NAL-RDA-MARC21slim2-mods/xml/BIBLIOGRAPHIC_13616235400007426_1/9916289322707426.xml"/>
+        <file name="../../../../../Desktop/NAL-RDA-MARC21slim2-mods/xml/bib_records/sections/bib_records_last_100.xml"/>
+        <file name="../../../../../Desktop/NAL-RDA-MARC21slim2-mods/xml/cat_bibs/cat_bibs.xml"/>
+        <file name="../../../../../Desktop/NAL-RDA-MARC21slim2-mods/xml/cat_bibs/cat_bibs_unprefixed.xml"/>
+        <file name="../../../../../Desktop/NAL-RDA-MARC21slim2-mods/xml/bib_records/N-1_1.xml"/>
+        <file name="../../../../../Desktop/NAL-RDA-MARC21slim2-mods/xml/bib_records/pages/N-1_1.xml"/>
+        <file name="../../../../../Desktop/NAL-RDA-MARC21slim2-mods/xml/bib_records/N-2_1.xml"/>
+        <file name="../../../../../Desktop/NAL-RDA-MARC21slim2-mods/xml/bib_records/N-3_1.xml"/>
+        <file name="../../../../../Desktop/NAL-RDA-MARC21slim2-mods/xml/bib_records/pages/N-3_1.xml"/>
+        <file name="../../../../../Desktop/NAL-RDA-MARC21slim2-mods/xml/bib_records/pages/N-5_1.xml"/>
+        <file name="../../../../../Desktop/NAL-RDA-MARC21slim2-mods/xml/BIBLIOGRAPHIC_13616235400007426_1/N-9916289322707426_1.xml"/>
+        <file name="../../../../../Desktop/NAL-RDA-MARC21slim2-mods/xml/bib_records/sections/N-bib_records_last_100_1.xml"/>
+        <file name="../../../../../Desktop/NAL-RDA-MARC21slim2-mods/xml/cat_bibs/N-cat_bibs_unprefixed_1.xml"/>
+        <file name="../../../../../Desktop/places.xml"/>
+    </projectTree>
+</project>
