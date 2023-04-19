@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>What motivates consumers to accept whole and processed mealworms in their diets? A five-country study</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Daylan Amelia</namePart>
+      <namePart type="family">Tzompa-Sosa</namePart>
+      <displayForm>Tzompa-Sosa, Daylan Amelia</displayForm>
+      <affiliation>Department of Food Technology, Food Structure and Function Research Group, Safety and Health, Faculty of Bioscience Engineering, Ghent University, Coupure Links 653, Gent 9000, Belgium</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Giovanni</namePart>
+      <namePart type="family">Sogari</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0002-2561-571X</nameIdentifier>
+      <displayForm>Sogari, Giovanni</displayForm>
+      <affiliation>Department of Food and Drug, University of Parma, Parco Area delle Scienze 45, Parma 43124, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Emma</namePart>
+      <namePart type="family">Copelotti</namePart>
+      <displayForm>Copelotti, Emma</displayForm>
+      <affiliation>Department of Veterinary Sciences, University of Pisa, Viale delle Piagge 2, Pisa 56124, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Giulia</namePart>
+      <namePart type="family">Andreani</namePart>
+      <displayForm>Andreani, Giulia</displayForm>
+      <affiliation>Department of Food and Drug, University of Parma, Parco Area delle Scienze 45, Parma 43124, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Joachim Jietse</namePart>
+      <namePart type="family">Schouteten</namePart>
+      <displayForm>Schouteten, Joachim Jietse</displayForm>
+      <affiliation>Department of Agricultural Economics, Ghent University, Gent, Belgium</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Roberta</namePart>
+      <namePart type="family">Moruzzo</namePart>
+      <displayForm>Moruzzo, Roberta</displayForm>
+      <affiliation>Department of Veterinary Sciences, University of Pisa, Viale delle Piagge 2, Pisa 56124, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Aijun</namePart>
+      <namePart type="family">Liu</namePart>
+      <displayForm>Liu, Aijun</displayForm>
+      <affiliation>China Center for Food Security Studies, Nanjing Agricultural University, No. 1 Weigang, Nanjing 210095, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jie</namePart>
+      <namePart type="family">Li</namePart>
+      <displayForm>Li, Jie</displayForm>
+      <affiliation>Charles H. Dyson School of Applied Economics and Management, Cornell University, Ithaca, NY, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Simone</namePart>
+      <namePart type="family">Mancini</namePart>
+      <displayForm>Mancini, Simone</displayForm>
+      <affiliation>Department of Veterinary Sciences, University of Pisa, Viale delle Piagge 2, Pisa 56124, Italy</affiliation>
+      <affiliation>Interdepartmental Research Center Nutrafood “Nutraceuticals and Food for Health”, University of Pisa, Via del Borghetto 80, Pisa 56124, Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2023-06</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The demand for mealworms as food is expected to increase over the coming years globally due to the recent sector development; however, consumer acceptance could vary among countries, hence, identifying drivers towards insects as food could help to develop different strategies to increase consumer acceptance, based on the location. Thus, this study aimed to explore consumers’ motivations to accept or reject whole and processed mealworms (Tenebrio molitor) in Belgium, China, Italy, Mexico, and the US (N = 3006). To reach this aim, an online survey with two open-ended questions was performed and responses were categorized into semantic groups based on their meaning. We identified what motivates consumers among different acceptance levels (“Yes, because…”, “Yes, but…”, “Maybe if…”, “No, because…”), and cross-country differences were investigated using hierarchical cluster analysis. “Healthiness” was the most frequent driver to accept whole and processed mealworms, except in Italy. “Aversion” and “dislike” were the most important barriers that led to rejecting these products across all five countries. However, some country differences exist. For example, Italian consumers often reported different motivations to either accept or reject mealworms, e.g., by giving less importance to health-related aspects and by showing more aversion towards the insect compared to the other countries. Reported reasons to reject mealworms were common between the traditional and non-traditional insect-eating countries. </abstract>
+   <subject>
+      <topic>Entomophagy</topic>
+   </subject>
+   <subject>
+      <topic>Insect</topic>
+   </subject>
+   <subject>
+      <topic>Novel food</topic>
+   </subject>
+   <subject>
+      <topic>Aversion</topic>
+   </subject>
+   <subject>
+      <topic>Neophobia</topic>
+   </subject>
+   <subject>
+      <topic>Sustainability</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Future Foods</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2666-8335</identifier>
+      <part>
+         <detail type="volume">
+            <number>7</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="year">2023</text>
+         <text type="month">June</text>
+         <extent unit="pages">
+            <start>100225</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.fufo.2023.100225</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.fufo.2023.100225</url>
+   </location>
+   <identifier type="pii">S2666-8335(23)00011-4</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Resource is Open Access">
+      <program>
+         <license_ref>http://purl.org/eprint/accessRights/OpenAccess</license_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <originalFile>file:/E:/Consyn/bamTesting/consyn-bam-vorAvailableOnline-to-dateIssued/source-xml/consyn-to-mods-cm3/S2666833523000114.xml</originalFile>
+      <workingDirectory>E:/Consyn/bamTesting/consyn-bam-vorAvailableOnline-to-dateIssued/source-xml\consyn-to-mods-cm3/</workingDirectory>
+   </extension>
+</mods>

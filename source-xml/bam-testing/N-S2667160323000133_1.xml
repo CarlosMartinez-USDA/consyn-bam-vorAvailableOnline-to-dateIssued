@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Automated image analysis method to detect and quantify fat cell infiltration in hematoxylin and eosin stained human pancreas histology images</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Roshan Ratnakar</namePart>
+      <namePart type="family">Naik</namePart>
+      <nameIdentifier type="orcid">https://orcid.org/0000-0003-4515-871X</nameIdentifier>
+      <displayForm>Naik, Roshan Ratnakar</displayForm>
+      <affiliation>Department of Biotechnology, Parvatibai Chowgule College of Arts &amp; Science, Margao-Goa, 403601</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Annie</namePart>
+      <namePart type="family">Rajan</namePart>
+      <displayForm>Rajan, Annie</displayForm>
+      <affiliation>Department of Computer Science, Dhempe College of Arts and Science, Miramar, Panaji-Goa, 403 001</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Nehal</namePart>
+      <namePart type="family">Kalita</namePart>
+      <displayForm>Kalita, Nehal</displayForm>
+      <affiliation>Computer Science</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2023</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Fatty infiltration in pancreas leading to steatosis is a major risk factor in pancreas transplantation. Hematoxylin and eosin (H and E) is one of the common histological staining techniques that provides information on the tissue cytoarchitecture. Adipose (fat) cells accumulation in pancreas has been shown to impact beta cell survival, its endocrine function and pancreatic steatosis and can cause non-alcoholic fatty pancreas disease (NAFPD). The current automated tools (E.g. Adiposoft) available for fat analysis are suited for white fat tissue which is homogeneous and easier to segment unlike heterogeneous tissues such as pancreas where fat cells continue to play critical physiopathological functions. The currently, available pancreas segmentation tool focuses on endocrine islet segmentation based on cell nuclei detection for diagnosis of pancreatic cancer. In the current study, we present a fat quantifying tool, Fatquant, which identifies fat cells in heterogeneous H and E tissue sections with reference to diameter of fat cell. Using histological images from a public database, we observed an intersection over union of 0.797 to 0.962 and 0.675 to 0.937 for manual versus Fatquant analysis of pancreas and liver, respectively. </abstract>
+   <subject>
+      <topic>Adipose or fat cells</topic>
+   </subject>
+   <subject>
+      <topic>Hematoxylin and eosin</topic>
+   </subject>
+   <subject>
+      <topic>Image processing</topic>
+   </subject>
+   <subject>
+      <topic>Tissue segmentation</topic>
+   </subject>
+   <subject>
+      <topic>Pancreas</topic>
+   </subject>
+   <subject>
+      <topic>Liver</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>BBA Advances</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2667-1603</identifier>
+      <part>
+         <detail type="volume">
+            <number>3</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="year">2023</text>
+         <extent unit="pages">
+            <start>100084</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.bbadva.2023.100084</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.bbadva.2023.100084</url>
+   </location>
+   <identifier type="pii">S2667-1603(23)00013-3</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Resource is Open Access">
+      <program>
+         <license_ref>http://purl.org/eprint/accessRights/OpenAccess</license_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <originalFile>file:/E:/Consyn/bamTesting/consyn-bam-vorAvailableOnline-to-dateIssued/source-xml/consyn-to-mods-cm3/S2667160323000133.xml</originalFile>
+      <workingDirectory>E:/Consyn/bamTesting/consyn-bam-vorAvailableOnline-to-dateIssued/source-xml\consyn-to-mods-cm3/</workingDirectory>
+   </extension>
+</mods>

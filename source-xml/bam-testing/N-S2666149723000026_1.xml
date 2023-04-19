@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>The acute effects of diet-induced energy restriction on physical activity energy expenditure and basal metabolic rate in men and women with overweight and obesity</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Matevz</namePart>
+      <namePart type="family">Arcon</namePart>
+      <displayForm>Arcon, Matevz</displayForm>
+      <affiliation>The Rowett Institute, School of Medical Sciences and Nutrition,
+                        University of Aberdeen, Aberdeen, AB25 2ZD, Scotland, UK</affiliation>
+      <affiliation>Division of Sport and Exercise Sciences, School of Applied Sciences,
+                        Abertay University, Dundee, DD1 1HG, Scotland, UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">John</namePart>
+      <namePart type="family">Malone</namePart>
+      <displayForm>Malone, John</displayForm>
+      <affiliation>Faculty of Life &amp; Health Sciences, School of Sport, Ulster
+                        University, Belfast, BT15 1AP, Northern Ireland, UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Karen L.</namePart>
+      <namePart type="family">Barton</namePart>
+      <displayForm>Barton, Karen L.</displayForm>
+      <affiliation>Division of Engineering and Food Science, School of Applied Sciences,
+                        Abertay University, Dundee, DD1 1HG, Scotland, UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Joel</namePart>
+      <namePart type="family">Rocha</namePart>
+      <displayForm>Rocha, Joel</displayForm>
+      <affiliation>Division of Sport and Exercise Sciences, School of Applied Sciences,
+                        Abertay University, Dundee, DD1 1HG, Scotland, UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2023-06</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Reductions in physical activity energy expenditure (PAEE) and basal metabolic rate (BMR) have been proposed as factors that may hinder diet-induced body mass loss. Although diet-mediated changes in PAEE and BMR are subject to large inter-individual variability, research investigating the impact of sex on diet-induced modulation of PAEE and BMR is lacking. Therefore, this study examined the effect of a diet-induced energy restriction on PAEE and BMR in non-exercising overweight and obese men and women. Eleven women (Age: 25 ± 7 yr; BMI: 29.7 ± 4.2 kg/m²) and eight men (Age 29.6 ± 4.0 yr; BMI: 29.7 ± 4.0 kg/m²) completed a 29-day investigation. Assessment of physical activity (PA) (PAEE and step count), BMR, body composition, systolic (SBP) and diastolic (DBP) blood pressure and fasting blood glucose (FBG) occurred on days 1, 8, 15, 22 and 29. Between days 15–22, participants consumed a liquid diet formula equivalent to 50% of their total daily energy expenditure (TDEE). The effects of time, sex and their interaction on all variables were assessed through a two-way mixed model ANOVA. Both men and women achieved a modest 3% body mass loss at the end of the intervention week. An effect of time was detected for body mass (p &lt; 0.001), BMI (p &lt; 0.001), body fat % (p = 0.001), SBP (p = 0.007), DBP (p = 0.033) and BG (p &lt; 0.001). There was a time and sex interaction for body mass (p = 0.002), BMI (p = 0.002) and body fat % (p = 0.043). Sex differences were only present for body fat % (p = 0.001) and BMR (p &lt; 0.001). No main or interaction effects were present for PAEE and step count. In the present study, a 7-day diet-induced energy restriction of 50% did not elicit compensatory changes in PAEE and BMR in overweight and obese men and women. Findings suggest that it may be a viable short-term strategy to produce initial reductions in body mass and body fat %, with improvements in fasting blood glucose and resting blood pressure. </abstract>
+   <subject>
+      <topic>Energy restriction</topic>
+   </subject>
+   <subject>
+      <topic>Spontaneous physical activity</topic>
+   </subject>
+   <subject>
+      <topic>Physical activity energy expenditure</topic>
+   </subject>
+   <subject>
+      <topic>Body mass loss</topic>
+   </subject>
+   <subject>
+      <topic>Hyperphagia</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Human Nutrition &amp; Metabolism</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier Inc.</publisher>
+      </originInfo>
+      <identifier type="issn">2666-1497</identifier>
+      <part>
+         <detail type="volume">
+            <number>32</number>
+            <caption>v.</caption>
+         </detail>
+         <text type="year">2023</text>
+         <text type="month">June</text>
+         <extent unit="pages">
+            <start>200185</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.hnm.2023.200185</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.hnm.2023.200185</url>
+   </location>
+   <identifier type="pii">S2666-1497(23)00002-6</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2023-02-16"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Resource is Open Access">
+      <program>
+         <license_ref>http://purl.org/eprint/accessRights/OpenAccess</license_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/E:/Consyn/bamTesting/consyn-bam-vorAvailableOnline-to-dateIssued/source-xml/sample-and-result-files/consyn-to-mods-cm3/S2666149723000026.xml</originalFile>
+      <workingDirectory>E:/Consyn/bamTesting/consyn-bam-vorAvailableOnline-to-dateIssued/source-xml/consyn-to-mods-cm3/</workingDirectory>
+   </extension>
+</mods>

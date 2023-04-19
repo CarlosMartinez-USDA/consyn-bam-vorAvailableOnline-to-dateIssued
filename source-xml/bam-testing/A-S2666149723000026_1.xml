@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.hnm.2023.200185">
+         <dct:format>application/xml</dct:format>
+         <dct:title>The acute effects of diet-induced energy restriction on physical activity
+                energy expenditure and basal metabolic rate in men and women with overweight and
+                obesity</dct:title>
+         <dct:creator>Matevz Arcon</dct:creator>
+         <dct:creator>John Malone</dct:creator>
+         <dct:creator>Karen L. Barton</dct:creator>
+         <dct:creator>Joel Rocha</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Energy restriction</rdf:li>
+               <rdf:li>Spontaneous physical activity</rdf:li>
+               <rdf:li>Physical activity energy expenditure</rdf:li>
+               <rdf:li>Body mass loss</rdf:li>
+               <rdf:li>Hyperphagia</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Human Nutrition &amp; Metabolism 32 (2023).
+                doi:10.1016/j.hnm.2023.200185</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Human Nutrition &amp; Metabolism</prism:publicationName>
+         <prism:copyright>© 2023 The Authors. Published by Elsevier Inc.</prism:copyright>
+         <dct:publisher>Elsevier Inc.</dct:publisher>
+         <prism:issn>2666-1497</prism:issn>
+         <prism:volume>32</prism:volume>
+         <prism:coverDisplayDate>June 2023</prism:coverDisplayDate>
+         <prism:doi>10.1016/j.hnm.2023.200185</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.hnm.2023.200185</prism:url>
+         <dct:identifier>doi:10.1016/j.hnm.2023.200185</dct:identifier>
+         <bam:articleNumber>200185</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2023-02-16T05:43:31Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#Author</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <dp:availableOnlineInformation>
+            <bam:availableOnline xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2023-02-27T00:00:00.000Z</bam:availableOnline>
+            <bam:vorAvailableOnline xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2023-03-02T00:00:00.000Z</bam:vorAvailableOnline>
+         </dp:availableOnlineInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open
+                access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S250.2</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>HNM</ja:jid>
+         <ja:aid>200185</ja:aid>
+         <ce:article-number>200185</ce:article-number>
+         <ce:pii>S2666-1497(23)00002-6</ce:pii>
+         <ce:doi>10.1016/j.hnm.2023.200185</ce:doi>
+         <ce:copyright type="other" year="2023">The Authors</ce:copyright>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="title0010">The acute effects of diet-induced energy restriction on
+                physical activity energy expenditure and basal metabolic rate in men and women with
+                overweight and obesity</ce:title>
+         <ce:author-group id="augrp0010">
+            <ce:author id="au1" author-id="S2666149723000026-c87d8c2fd3b53d41e08e2e36dff1b7fe">
+               <ce:given-name>Matevz</ce:given-name>
+               <ce:surname>Arcon</ce:surname>
+               <ce:cross-ref refid="aff1">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff4">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor1">
+                  <ce:sup loc="post">∗</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:m.arcon.19@abdn.ac.uk"
+                             id="eadd0010">m.arcon.19@abdn.ac.uk</ce:e-address>
+            </ce:author>
+            <ce:author id="au2" author-id="S2666149723000026-dd4430ce7c6e2f52c956a52b65da8509">
+               <ce:given-name>John</ce:given-name>
+               <ce:surname>Malone</ce:surname>
+               <ce:cross-ref refid="aff2">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:J.Malone@ulster.ac.uk"
+                             id="eadd0015">J.Malone@ulster.ac.uk</ce:e-address>
+            </ce:author>
+            <ce:author id="au3" author-id="S2666149723000026-ccab93e784a6aed6cea835ecbd9e1d0a">
+               <ce:given-name>Karen L.</ce:given-name>
+               <ce:surname>Barton</ce:surname>
+               <ce:cross-ref refid="aff3">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:K.Barton@abertay.ac.u"
+                             id="eadd0020">K.Barton@abertay.ac.u</ce:e-address>
+            </ce:author>
+            <ce:author id="au4" author-id="S2666149723000026-fa54f5d804f3e69733ed967e6c22aa94">
+               <ce:given-name>Joel</ce:given-name>
+               <ce:surname>Rocha</ce:surname>
+               <ce:cross-ref refid="aff4">
+                  <ce:sup loc="post">d</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:J.Rocha@abertay.ac.uk"
+                             id="eadd0025">J.Rocha@abertay.ac.uk</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff1"
+                            affiliation-id="S2666149723000026-decf08d08a8653fc3ff6ab3dc48f64e6">
+               <ce:label>a</ce:label>
+               <ce:textfn>The Rowett Institute, School of Medical Sciences and Nutrition,
+                        University of Aberdeen, Aberdeen, AB25 2ZD, Scotland, UK</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>The Rowett Institute</sa:organization>
+                  <sa:organization>School of Medical Sciences and Nutrition</sa:organization>
+                  <sa:organization>University of Aberdeen</sa:organization>
+                  <sa:city>Aberdeen</sa:city>
+                  <sa:state>Scotland</sa:state>
+                  <sa:postal-code>AB25 2ZD</sa:postal-code>
+                  <sa:country>UK</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srct0010">The Rowett Institute, School of Medical Sciences
+                        and Nutrition, University of Aberdeen, Aberdeen, AB25 2ZD,
+                        Scotland</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff2"
+                            affiliation-id="S2666149723000026-f8424126014f208d92ed5fcc8d72a3ab">
+               <ce:label>b</ce:label>
+               <ce:textfn>Faculty of Life &amp; Health Sciences, School of Sport, Ulster
+                        University, Belfast, BT15 1AP, Northern Ireland, UK</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Faculty of Life &amp; Health Sciences</sa:organization>
+                  <sa:organization>School of Sport</sa:organization>
+                  <sa:organization>Ulster University</sa:organization>
+                  <sa:city>Belfast</sa:city>
+                  <sa:state>Northern Ireland</sa:state>
+                  <sa:postal-code>BT15 1AP</sa:postal-code>
+                  <sa:country>UK</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srct0015">Faculty of Life &amp; Health Sciences, School of
+                        Sport, Ulster University, Belfast, BT15 1AP, Northern
+                        Ireland</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff3"
+                            affiliation-id="S2666149723000026-3ad3d35cca8fdff6fa03be5f232a24f9">
+               <ce:label>c</ce:label>
+               <ce:textfn>Division of Engineering and Food Science, School of Applied Sciences,
+                        Abertay University, Dundee, DD1 1HG, Scotland, UK</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Division of Engineering and Food Science</sa:organization>
+                  <sa:organization>School of Applied Sciences</sa:organization>
+                  <sa:organization>Abertay University</sa:organization>
+                  <sa:city>Dundee</sa:city>
+                  <sa:state>Scotland</sa:state>
+                  <sa:postal-code>DD1 1HG</sa:postal-code>
+                  <sa:country>UK</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srct0020">Division of Engineering and Food Science, School
+                        of Applied Sciences, Abertay University, Dundee, DD1 1HG,
+                        Scotland</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff4"
+                            affiliation-id="S2666149723000026-d562a6b08985842512ad25f19b59bb36">
+               <ce:label>d</ce:label>
+               <ce:textfn>Division of Sport and Exercise Sciences, School of Applied Sciences,
+                        Abertay University, Dundee, DD1 1HG, Scotland, UK</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Division of Sport and Exercise Sciences</sa:organization>
+                  <sa:organization>School of Applied Sciences</sa:organization>
+                  <sa:organization>Abertay University</sa:organization>
+                  <sa:city>Dundee</sa:city>
+                  <sa:state>Scotland</sa:state>
+                  <sa:postal-code>DD1 1HG</sa:postal-code>
+                  <sa:country>UK</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srct0025">Division of Sport and Exercise Sciences, School of
+                        Applied Sciences, Abertay University, Dundee, DD1 1HG,
+                        Scotland</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor1">
+               <ce:label>∗</ce:label>
+               <ce:text>Corresponding author. The Rowett Institute, School of Medical Sciences
+                        and Nutrition, University of Aberdeen, Aberdeen, AB25 2ZD, Scotland,
+                        UK.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>The Rowett Institute</sa:organization>
+                  <sa:organization>School of Medical Sciences and Nutrition</sa:organization>
+                  <sa:organization>University of Aberdeen</sa:organization>
+                  <sa:city>Aberdeen</sa:city>
+                  <sa:state>Scotland</sa:state>
+                  <sa:postal-code>AB25 2ZD</sa:postal-code>
+                  <sa:country>UK</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="19" month="5" year="2022"/>
+         <ce:date-revised day="10" month="1" year="2023"/>
+         <ce:date-accepted day="16" month="2" year="2023"/>
+         <ce:abstract xml:lang="en" id="abs0010" view="all" class="author">
+            <ce:section-title id="sectitle0010">Abstract</ce:section-title>
+            <ce:abstract-sec role="introduction" id="abssec0010" view="all">
+               <ce:section-title id="sectitle0015">Introduction</ce:section-title>
+               <ce:simple-para id="abspara0010" view="all">Reductions in physical activity
+                        energy expenditure (PAEE) and basal metabolic rate (BMR) have been proposed
+                        as factors that may hinder diet-induced body mass loss. Although
+                        diet-mediated changes in PAEE and BMR are subject to large inter-individual
+                        variability, research investigating the impact of sex on diet-induced
+                        modulation of PAEE and BMR is lacking. Therefore, this study examined the
+                        effect of a diet-induced energy restriction on PAEE and BMR in
+                        non-exercising overweight and obese men and women.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec id="abssec0015" view="all">
+               <ce:section-title id="sectitle0020">Methods</ce:section-title>
+               <ce:simple-para id="abspara0015" view="all">Eleven women (Age:
+                        25 ± 7 yr; BMI:
+                            29.7 ± 4.2 kg/m<ce:sup loc="post">2</ce:sup>) and
+                        eight men (Age 29.6 ± 4.0 yr; BMI:
+                            29.7 ± 4.0 kg/m<ce:sup loc="post">2</ce:sup>)
+                        completed a 29-day investigation. Assessment of physical activity (PA) (PAEE
+                        and step count), BMR, body composition, systolic (SBP) and diastolic (DBP)
+                        blood pressure and fasting blood glucose (FBG) occurred on days 1, 8, 15, 22
+                        and 29. Between days 15–22, participants consumed a liquid diet
+                        formula equivalent to 50% of their total daily energy expenditure (TDEE).
+                        The effects of time, sex and their interaction on all variables were
+                        assessed through a two-way mixed model ANOVA.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec role="results" id="abssec0020" view="all">
+               <ce:section-title id="sectitle0025">Results</ce:section-title>
+               <ce:simple-para id="abspara0020" view="all">Both men and women achieved a modest
+                        3% body mass loss at the end of the intervention week. An effect of time was
+                        detected for body mass (p &lt; 0.001), BMI
+                        (p &lt; 0.001), body fat % (p = 0.001), SBP
+                        (p = 0.007), DBP (p = 0.033) and BG
+                        (p &lt; 0.001). There was a time and sex interaction for body mass
+                        (p = 0.002), BMI (p = 0.002) and body fat %
+                        (p = 0.043). Sex differences were only present for body fat %
+                        (p = 0.001) and BMR (p &lt; 0.001). No main or
+                        interaction effects were present for PAEE and step count.</ce:simple-para>
+            </ce:abstract-sec>
+            <ce:abstract-sec role="conclusion" id="abssec0025" view="all">
+               <ce:section-title id="sectitle0030">Conclusion</ce:section-title>
+               <ce:simple-para id="abspara0025" view="all">In the present study, a 7-day
+                        diet-induced energy restriction of 50% did not elicit compensatory changes
+                        in PAEE and BMR in overweight and obese men and women. Findings suggest that
+                        it may be a viable short-term strategy to produce initial reductions in body
+                        mass and body fat %, with improvements in fasting blood glucose and resting
+                        blood pressure.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:abstract class="author-highlights" xml:lang="en" id="abs0015" view="all">
+            <ce:section-title id="sectitle0035">Highlights</ce:section-title>
+            <ce:abstract-sec id="abssec0030" view="all">
+               <ce:simple-para id="abspara0030" view="all">
+                  <ce:list id="ulist0010">
+                     <ce:list-item id="u0010">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0010" view="all">A 7-day diet-induced energy
+                                    restriction resulted in a 3% body mass loss.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="u0015">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0015" view="all">Body mass change was similar between
+                                    overweight/obese men and women.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="u0020">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0020" view="all">Physical activity and energy
+                                    expenditure were unaffected by the energy deficit.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="u0025">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0025" view="all">A 3% body mass loss improved fasting
+                                    blood glucose and blood pressure.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+            <ce:section-title id="sectitle0040">Keywords</ce:section-title>
+            <ce:keyword id="kwrd0010">
+               <ce:text>Energy restriction</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0015">
+               <ce:text>Spontaneous physical activity</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0020">
+               <ce:text>Physical activity energy expenditure</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0025">
+               <ce:text>Body mass loss</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0030">
+               <ce:text>Hyperphagia</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+      </ja:head>
+   </ja:article>
+</doc:document>

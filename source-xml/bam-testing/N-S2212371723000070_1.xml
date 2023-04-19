@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Reclamation of treated municipal wastewater in cooling towers of thermal power plants: Determination of the wastewater quality index</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Ghorban</namePart>
+      <namePart type="family">Asgari</namePart>
+      <displayForm>Asgari, Ghorban</displayForm>
+      <affiliation>Department of Environmental Health Engineering, School of Public
+                        Health, Hamadan University of Medical Sciences, Hamadan, Iran</affiliation>
+      <affiliation>Social Determinants of Health Research Center (SDHRC), Hamadan
+                        University of Medical Sciences, Iran</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mohammad</namePart>
+      <namePart type="family">Khazaei</namePart>
+      <displayForm>Khazaei, Mohammad</displayForm>
+      <affiliation>Department of Environmental Health Engineering, School of Public
+                        Health, Hamadan University of Medical Sciences, Hamadan, Iran</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Abdolmotaleb</namePart>
+      <namePart type="family">Seidmohammad</namePart>
+      <displayForm>Seidmohammad, Abdolmotaleb</displayForm>
+      <affiliation>Department of Environmental Health Engineering, School of Public
+                        Health, Hamadan University of Medical Sciences, Hamadan, Iran</affiliation>
+      <affiliation>Social Determinants of Health Research Center (SDHRC), Hamadan
+                        University of Medical Sciences, Iran</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Muharram</namePart>
+      <namePart type="family">Mansoorizadeh</namePart>
+      <displayForm>Mansoorizadeh, Muharram</displayForm>
+      <affiliation>Department of Computer Engineering, Bu-Ali Sina University, Hamedan,
+                        Iran</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Somayeh</namePart>
+      <namePart type="family">Talebi</namePart>
+      <displayForm>Talebi, Somayeh</displayForm>
+      <affiliation>Department of Environmental Health Engineering, School of Public
+                        Health, Hamadan University of Medical Sciences, Hamadan, Iran</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2023-03-31</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Water quality in cooling towers of thermal power plants (CTTPP) has a critical role in the operation and maintenance of CTTPP and the need for an index which represents well the quality of water used in CTTPP. In this study, municipal wastewater effluent (MWE) as a source of water for use in the CTTPP was evaluated by determining the water quality index. 22 MWE quality parameters were considered in terms of their potential effects on cooling towers. The relative weight of the parameters is calculated by the analytical hierarchical process (AHP). The analysis of water classification was done by using the fuzzy inference system (FIS). In the fuzzy logic approach, the trapezoidal and triangular membership functions and the Mamdani inference system were used, and the final rules consist of 240 rules. The center-of-gravity method is used for the Defuzzification of the results. The values obtained from the cooling tower effluent quality index (CTEQI) based on the FIS were generally more stable than the values from CTEQI based on the traditional system. The outcomes of this study established that the quality of effluent entering the cooling towers in a Shahid Moftteh power plant in the Hamadan (effluent sampling site) is moderate to good condition (annual fuzzy index 50–90, average annual traditional index 79.52–95.99). This research result reveals that CTEQI can be counted as a general tool for evaluating the quality of effluent that use in the CTTPP and can be used with confidence for this purpose. </abstract>
+   <note type="admin">Pre-press version</note>
+   <subject>
+      <topic>Analytic hierarchy process</topic>
+   </subject>
+   <subject>
+      <topic>Wastewater</topic>
+   </subject>
+   <subject>
+      <topic>Fuzzy logic</topic>
+   </subject>
+   <subject>
+      <topic>Cooling tower</topic>
+   </subject>
+   <subject>
+      <topic>Power plant</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Water Resources and Industry</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Elsevier B.V.</publisher>
+      </originInfo>
+      <identifier type="issn">2212-3717</identifier>
+      <part>
+         <text type="year">2023</text>
+         <text type="month">03</text>
+         <text type="day">31</text>
+         <extent unit="pages">
+            <start>100207</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.wri.2023.100207</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1016/j.wri.2023.100207</url>
+   </location>
+   <identifier type="pii">S2212-3717(23)00007-0</identifier>
+   <accessCondition type="use and reproduction"
+                    displayLabel="Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)">
+      <program xmlns="https://data.crossref.org/schemas/AccessIndicators.xsd">
+         <licence_ref applies_to="reuse" start_date="2023-03-12"/>
+         <licence_ref>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence_ref>
+      </program>
+   </accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Resource is Open Access">
+      <program>
+         <license_ref>http://purl.org/eprint/accessRights/OpenAccess</license_ref>
+      </program>
+   </accessCondition>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/4YD14T2S/S2212371723000070.xml</originalFile>
+      <workingDirectory>E:/Consyn/bamTesting/consyn-bam-vorAvailableOnline-to-dateIssued/source-xml/consyn-to-mods-cm3/</workingDirectory>
+   </extension>
+</mods>

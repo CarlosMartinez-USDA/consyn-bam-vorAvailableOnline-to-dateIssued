@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema"
+              xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+              xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+              xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+              xmlns:dct="http://purl.org/dc/terms/"
+              xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+              xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+              xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+              xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+              xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+              xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+              xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+              xmlns:ce="http://www.elsevier.com/xml/common/schema"
+              xmlns:mml="http://www.w3.org/1998/Math/MathML"
+              xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+              xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+              xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+              xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rdf:RDF>
+      <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.wri.2023.100207">
+         <dct:format>application/xml</dct:format>
+         <dct:title>Reclamation of treated municipal wastewater in cooling towers of thermal
+                power plants: Determination of the wastewater quality index</dct:title>
+         <dct:creator>Ghorban Asgari</dct:creator>
+         <dct:creator>Mohammad Khazaei</dct:creator>
+         <dct:creator>Abdolmotaleb Seidmohammad</dct:creator>
+         <dct:creator>Muharram Mansoorizadeh</dct:creator>
+         <dct:creator>Somayeh Talebi</dct:creator>
+         <dct:subject>
+            <rdf:Bag>
+               <rdf:li>Analytic hierarchy process</rdf:li>
+               <rdf:li>Wastewater</rdf:li>
+               <rdf:li>Fuzzy logic</rdf:li>
+               <rdf:li>Cooling tower</rdf:li>
+               <rdf:li>Power plant</rdf:li>
+            </rdf:Bag>
+         </dct:subject>
+         <dct:description>Water Resources and Industry, Journal Pre-proof.
+                doi:10.1016/j.wri.2023.100207</dct:description>
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Water Resources and Industry</prism:publicationName>
+         <prism:copyright>© 2023 Published by Elsevier B.V.</prism:copyright>
+         <dct:publisher>Elsevier B.V.</dct:publisher>
+         <prism:issn>2212-3717</prism:issn>
+         <prism:doi>10.1016/j.wri.2023.100207</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.wri.2023.100207</prism:url>
+         <dct:identifier>doi:10.1016/j.wri.2023.100207</dct:identifier>
+         <bam:articleNumber>100207</bam:articleNumber>
+         <oa:openAccessInformation>
+            <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+            <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2023-03-12T21:52:49Z</oa:openAccessEffective>
+            <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#ElsevierWaived</oa:sponsorType>
+            </oa:sponsor>
+            <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+         </oa:openAccessInformation>
+         <dp:availableOnlineInformation>
+            <bam:availableOnline xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2023-03-31T00:00:00.000Z</bam:availableOnline>
+            <bam:vorAvailableOnline xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+         </dp:availableOnlineInformation>
+         <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open
+                access article under the CC BY-NC-ND license.</cp:licenseLine>
+      </rdf:Description>
+   </rdf:RDF>
+   <dp:document-properties>
+      <dp:aggregation-type>Journals</dp:aggregation-type>
+      <dp:version-number>S5.1</dp:version-number>
+   </dp:document-properties>
+   <ja:article docsubtype="fla" version="5.6" xml:lang="en">
+      <ja:item-info>
+         <ja:jid>WRI</ja:jid>
+         <ja:aid>100207</ja:aid>
+         <ce:article-number>100207</ce:article-number>
+         <ce:pii>S2212-3717(23)00007-0</ce:pii>
+         <ce:doi>10.1016/j.wri.2023.100207</ce:doi>
+         <ce:copyright type="unknown" year="2023"/>
+      </ja:item-info>
+      <ja:head>
+         <ce:title id="title0010">Reclamation of treated municipal wastewater in cooling towers
+                of thermal power plants: Determination of the wastewater quality index</ce:title>
+         <ce:author-group id="augrp0010">
+            <ce:author id="au1" author-id="S2212371723000070-32aa5a2096688aa32cf44e719bb4bfff">
+               <ce:given-name>Ghorban</ce:given-name>
+               <ce:surname>Asgari</ce:surname>
+               <ce:cross-ref refid="aff1">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff2">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor2">
+                  <ce:sup loc="post">∗∗</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email" xlink:href="mailto:Asgari@umsha.ac.ir" id="eadd0010">Asgari@umsha.ac.ir</ce:e-address>
+            </ce:author>
+            <ce:author id="au2" author-id="S2212371723000070-266280a2033739c5ceaccbe899957f76">
+               <ce:given-name>Mohammad</ce:given-name>
+               <ce:surname>Khazaei</ce:surname>
+               <ce:cross-ref refid="aff1">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au3" author-id="S2212371723000070-f30493f8a83ffa09ecd65877a8c26076">
+               <ce:given-name>Abdolmotaleb</ce:given-name>
+               <ce:surname>Seidmohammad</ce:surname>
+               <ce:cross-ref refid="aff1">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="aff2">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au4" author-id="S2212371723000070-d2f088bea430c1d9bfe6a95856abfb0d">
+               <ce:given-name>Muharram</ce:given-name>
+               <ce:surname>Mansoorizadeh</ce:surname>
+               <ce:cross-ref refid="aff3">
+                  <ce:sup loc="post">c</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author id="au5" author-id="S2212371723000070-aa03cf5eceda1570ee7bd124cc7a02c9">
+               <ce:given-name>Somayeh</ce:given-name>
+               <ce:surname>Talebi</ce:surname>
+               <ce:cross-ref refid="aff1">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+               <ce:cross-ref refid="cor1">
+                  <ce:sup loc="post">∗</ce:sup>
+               </ce:cross-ref>
+               <ce:e-address type="email"
+                             xlink:href="mailto:so.talebi2017@gmail.com"
+                             id="eadd0015">so.talebi2017@gmail.com</ce:e-address>
+            </ce:author>
+            <ce:affiliation id="aff1"
+                            affiliation-id="S2212371723000070-4ec6ae1e21bc99d4d3cf15cbeeefa077">
+               <ce:label>a</ce:label>
+               <ce:textfn>Department of Environmental Health Engineering, School of Public
+                        Health, Hamadan University of Medical Sciences, Hamadan, Iran</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Environmental Health
+                            Engineering</sa:organization>
+                  <sa:organization>School of Public Health</sa:organization>
+                  <sa:organization>Hamadan University of Medical Sciences</sa:organization>
+                  <sa:city>Hamadan</sa:city>
+                  <sa:country>Iran</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srct0010">Department of Environmental Health Engineering,
+                        School of Public Health, Hamadan University of Medical Sciences, Hamadan,
+                        Iran</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff2"
+                            affiliation-id="S2212371723000070-f712c285deb8558e4deb703de94e6bc2">
+               <ce:label>b</ce:label>
+               <ce:textfn>Social Determinants of Health Research Center (SDHRC), Hamadan
+                        University of Medical Sciences, Iran</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Social Determinants of Health Research Center
+                            (SDHRC)</sa:organization>
+                  <sa:organization>Hamadan University of Medical Sciences</sa:organization>
+                  <sa:country>Iran</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srct0015">Social Determinants of Health Research Center
+                        (SDHRC), Hamadan University of Medical Sciences</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation id="aff3"
+                            affiliation-id="S2212371723000070-a295b86948d3f9e04b62abb869080dfe">
+               <ce:label>c</ce:label>
+               <ce:textfn>Department of Computer Engineering, Bu-Ali Sina University, Hamedan,
+                        Iran</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Computer Engineering</sa:organization>
+                  <sa:organization>Bu-Ali Sina University</sa:organization>
+                  <sa:city>Hamedan</sa:city>
+                  <sa:country>Iran</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srct0020">Department of Computer Engineering, Bu-Ali Sina
+                        University, Hamedan, Iran</ce:source-text>
+            </ce:affiliation>
+            <ce:correspondence id="cor1">
+               <ce:label>∗</ce:label>
+               <ce:text>Corresponding author.</ce:text>
+            </ce:correspondence>
+            <ce:correspondence id="cor2">
+               <ce:label>∗∗</ce:label>
+               <ce:text>Corresponding author. Department of Environmental Health Engineering,
+                        School of Public Health, Hamadan University of Medical Sciences, Hamadan,
+                        Iran.</ce:text>
+               <sa:affiliation>
+                  <sa:organization>Department of Environmental Health
+                            Engineering</sa:organization>
+                  <sa:organization>School of Public Health</sa:organization>
+                  <sa:organization>Hamadan University of Medical Sciences</sa:organization>
+                  <sa:city>Hamadan</sa:city>
+                  <sa:country>Iran</sa:country>
+               </sa:affiliation>
+            </ce:correspondence>
+         </ce:author-group>
+         <ce:date-received day="8" month="1" year="2022"/>
+         <ce:date-revised day="9" month="3" year="2023"/>
+         <ce:date-accepted day="12" month="3" year="2023"/>
+         <ce:abstract xml:lang="en" id="abs0010" view="all" class="author">
+            <ce:section-title id="sectitle0010">Abstract</ce:section-title>
+            <ce:abstract-sec id="abssec0010" view="all">
+               <ce:simple-para id="abspara0010" view="all">Water quality in cooling towers of
+                        thermal power plants (CTTPP) has a critical role in the operation and
+                        maintenance of CTTPP and the need for an index which represents well the
+                        quality of water used in CTTPP. In this study, municipal wastewater effluent
+                        (MWE) as a source of water for use in the CTTPP was evaluated by determining
+                        the water quality index. 22 MWE quality parameters were considered in terms
+                        of their potential effects on cooling towers. The relative weight of the
+                        parameters is calculated by the analytical hierarchical process (AHP). The
+                        analysis of water classification was done by using the fuzzy inference
+                        system (FIS). In the fuzzy logic approach, the trapezoidal and triangular
+                        membership functions and the Mamdani inference system were used, and the
+                        final rules consist of 240 rules. The center-of-gravity method is used for
+                        the Defuzzification of the results. The values obtained from the cooling
+                        tower effluent quality index (CTEQI) based on the FIS were generally more
+                        stable than the values from CTEQI based on the traditional system. The
+                        outcomes of this study established that the quality of effluent entering the
+                        cooling towers in a Shahid Moftteh power plant in the Hamadan (effluent
+                        sampling site) is moderate to good condition (annual fuzzy index
+                        50–90, average annual traditional index 79.52–95.99). This
+                        research result reveals that CTEQI can be counted as a general tool for
+                        evaluating the quality of effluent that use in the CTTPP and can be used
+                        with confidence for this purpose.</ce:simple-para>
+            </ce:abstract-sec>
+         </ce:abstract>
+         <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+            <ce:section-title id="sectitle0015">Keywords</ce:section-title>
+            <ce:keyword id="kwrd0010">
+               <ce:text>Analytic hierarchy process</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0015">
+               <ce:text>Wastewater</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0020">
+               <ce:text>Fuzzy logic</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0025">
+               <ce:text>Cooling tower</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0030">
+               <ce:text>Power plant</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+         <ce:data-availability id="da0010" view="all">
+            <ce:section-title id="sectitle0020">Data availability</ce:section-title>
+            <ce:para id="p0010" view="all">No data was used for the research described in the
+                    article.</ce:para>
+         </ce:data-availability>
+      </ja:head>
+   </ja:article>
+</doc:document>

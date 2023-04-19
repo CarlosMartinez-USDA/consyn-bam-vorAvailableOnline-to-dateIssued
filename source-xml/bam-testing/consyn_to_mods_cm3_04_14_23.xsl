@@ -32,20 +32,7 @@
             <xd:p><xd:b>Last modified on:</xd:b> November 7, 2018</xd:p>
             <xd:p><xd:b>Original author:</xd:b> Jennifer Gilbert</xd:p>            
             <xd:p><xd:b>Modified by:</xd:b> Emily Somach, Amanda Xu and Carlos Martinez </xd:p>
-            <xd:p><xd:b>Change Log:</xd:b></xd:p>
-            <xd:p><xd:b>2017-07:</xd:b> Stylesheet was refactored</xd:p>
-            <xd:p><xd:b>2022-12-14:</xd:b> CONSYN deployed two new date elements</xd:p>
-            <xd:ul>
-                <xd:li>
-                    <xd:p><xd:b>bam:avaialbleOnline</xd:b>The first date on which any version of the resource has been published on any of Elsevier's platform</xd:p>
-                </xd:li>
-                <xd:li>
-                    <xd:p><xd:b>bam:avaialbleOnline</xd:b>The date upon which the first final version of the resource is published on any of Elsevier's online platforms.</xd:p>
-                </xd:li>
-            </xd:ul>
-            <xd:p><xd:b>2023-01-26:</xd:b> Date elements added to stylesheet.</xd:p>
-            <xd:p><xd:b>2023-04-19:</xd:b> Date elements revised and succesfully integrated into
-                transformation. </xd:p>
+            <xd:p>This stylesheet was refactored in July 2017.</xd:p>
         </xd:desc>
     </xd:doc>
     
@@ -231,11 +218,9 @@
     
     <xd:doc>
         <xd:desc>
-            <xd:p><xd:b>modsOriginDate:</xd:b> This template selects dates from the source xml in
-                the preferred order decided upon by metadata management. </xd:p>
-            <xd:p>The templates following it construct help to construct the <xd:i>dateIssued</xd:i>
-                element and <xd:i>relatedItem</xd:i>/<xd:i>text[@type]</xd:i> subelements. </xd:p>
-            <xd:p><xd:b>Source XML elements in order of selection: </xd:b></xd:p>
+            <xd:p><xd:b>modsOriginDate:</xd:b> this template sets up the order of precedence when choosing a value for originInfo/dateIssued.</xd:p>
+            <xd:p>The templates following it construct dateIssued, selecting the date in order of preferred element:</xd:p>
+            <xd:p><xd:b>Selecting dates in order of preference</xd:b></xd:p>
             <xd:ul>
                 <xd:li>prism:coverDisplayDate</xd:li>
                 <xd:li>prism:coverDate</xd:li>
